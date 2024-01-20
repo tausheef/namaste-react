@@ -22,4 +22,10 @@ important notes in js
 - Diagnostic
 - Error Handling 
 - HTTPs
-- Tree Shaking - remove unused code for you 
+- Tree Shaking - remove unused code for you
+
+# What is JSX
+- JSX allows us to write HTML elements in JavaScript and place them in the DOM without any createElement() and/or appendChild() methods.
+
+- Jsx is not Html in Js
+- its look like html but  its not html
