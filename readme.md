@@ -48,5 +48,3 @@ important notes in js
  - you can use "{}" in jsx to write js expression code
 
  - {} --> you can use this to add react element in components
-
-hello my name is saurav
