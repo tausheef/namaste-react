@@ -29,3 +29,22 @@ important notes in js
 
 - Jsx is not Html in Js
 - its look like html but  its not html
+- for using attribute in jsx we use cameCase🐪
+- JSX Transpiles the react code in react.CreateElement => ReactElement-JS object => htmlElement(render).
+
+# React components
+
+- There are two types of component 
+- Class Based Componenets -- OLD
+- Functional Components -- NEW,funtional components return jsx code,
+
+ - React Functional Componenets
+ const HeadingComponenets = () => {
+    return <h1>Called me yourDaddy</h1>
+ }
+ - YOU CAN ALSO WRITE LIKE THIS :-
+ const HeadingComponents2 = () => ( <h1>hello my dear friends</h1>)
+
+ - you can use "{}" in jsx to write js expression code
+
+ - {} --> you can use this to add react element in components
