@@ -48,3 +48,34 @@ important notes in js
  - you can use "{}" in jsx to write js expression code
 
  - {} --> you can use this to add react element in components
+
+our frontend :-
+# how its look,
+
+Header 
+- logo 
+- Nav Items
+Body
+- search Restruanant
+- Container
+- Restrunant Comtainer
+Footer
+- Copyrights
+- Links
+- Address
+- Contact
+*/
+
+<!--  const Title = () => (
+ <h1 className="head" tabIndex="5">
+    Namaste Reactt using Jsx🚀
+ </h1>
+ );
+
+ // React Functional Componenets
+ const HeadingComponenets = () => (
+    <div id="container">
+        <Title/>  {/* Name of other componenets also called components composition */}
+   <h1 className="heading">Called me yourDaddy</h1>
+   </div>
+  -->
