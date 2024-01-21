@@ -36,13 +36,25 @@ const Header = () => {
    
 }
 
+const Restaurantcard = () => {
+ 
+   return (
+    
+      <div className="res-card">
+        <h3>Briyani Corner</h3>
+      </div>
+
+   );
+
+}
+
 const Body = () => {
  
    return (
     <div className="body">
        <div className="search-bar">Search</div>
        <div className="res-container">
-         //card-components 
+         <Restaurantcard/>
        </div>
     </div>
 
@@ -56,6 +68,7 @@ const App = () => {
    return (
   <div className="app">
    <Header/>
+   <Body/>
    </div>
    );
 };
