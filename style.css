@@ -33,8 +33,44 @@ body{
 
 .res-card{
 
- width:200px;
- height:300px;
- border: 1px solid red;
+ width:210px;
+ height:332px;
+ margin-left: 20px;
+ margin-top: 5px;
+ background-color: #f0f0f0;
+ padding-bottom:8px;
 
+ 
+
+}
+
+.search-bar{
+    padding: 10px;
+}
+
+.img-cont{
+  background-size: cover;
+  background-origin:center;
+  height: 199px;
+  width: 200px;
+  padding: 5px;
+  transition: 1s;
+  
+}
+
+ h4{
+    
+   margin: 1px;
+   padding: 1px;
+
+} 
+
+.res-card:hover{
+    box-shadow:  0 3px 10px rgb(0 0 0 / 0.5);
+  
+}
+
+.res-container{
+    display: flex;
+    flex-wrap: wrap;
 }

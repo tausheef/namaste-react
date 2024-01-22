@@ -79,3 +79,18 @@ Footer
    <h1 className="heading">Called me yourDaddy</h1>
    </div>
   -->
+
+  # Props
+  - React Props. Props stand for "Properties." They are read-only components. It is an object which stores the value of attributes of a tag and work similar to the HTML attributes. It gives a way to pass data from one component to other components. It is similar to function arguments.
+
+  # props example 
+   # passing props 
+
+  - <Restaurantcard resName="Mcdonalds" cusine="Burger , italian" stars="4.3 stars" time="38 minutes"/>
+        // <Restaurantcard resName="kfc" cusine="Fried Chicken , American"  stars="4.5 stars" time="30 minutes"/>
+
+   # Configuration-driven UI, 
+    - also known as config-driven UI or configuration-based UI - When you build real a world application so you want should your website work in many country or many place we control our fontend it is known as using Config-Driven UI . API or Backend Driven which is data Comming from API.
+
+
+    - config driven ui wo hai example agr tum chahte ho red clour bg delhi main ho , blue clour mumbai main and green kolkata main to tum use send kar sakte hai color as a config and this config will drive your UI
