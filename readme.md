@@ -40,7 +40,7 @@ important notes in js
 
  - React Functional Componenets
  const HeadingComponenets = () => {
-    return <h1>Called me yourDaddy</h1>
+    return <h1>hhhhh</h1>
  }
  - YOU CAN ALSO WRITE LIKE THIS :-
  const HeadingComponents2 = () => ( <h1>hello my dear friends</h1>)
